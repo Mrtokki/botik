@@ -1,3 +1,2 @@
-heroku buildpacks:set heroku/python
 pip
 telebot
